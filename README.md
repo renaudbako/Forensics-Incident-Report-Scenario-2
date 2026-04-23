@@ -56,7 +56,7 @@ Functionality: The "connectback" and "getshell" labels identify this as a Revers
 
 Unlike a standard bind shell, this payload initiates an outbound connection from the server to the attacker's machine. This allows the attacker to bypass inbound firewall rules and maintain a persistent command-and-control (C2) channel.
 
-![pers](./images/cronjob.jpg)
+![pers](./images/virustotal.jpg)
 
 # 4. Technical Artifacts
 
