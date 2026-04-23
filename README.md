@@ -43,7 +43,7 @@ Entry: @reboot /etc/system/payload
 
 ![pers](./images/cronjob.jpg)
 
-C. Malicious Binary: /etc/system/payload (trojan.getshell/connectback)
+C. Payload Analysis: /etc/system/payload (trojan.getshell/connectback)
 Analysis of the file /etc/system/payload reveals a 32-bit ELF executable designed for stealth.
 
 The binary at /etc/system/payload was analyzed via VirusTotal and static forensics.
